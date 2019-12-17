@@ -18,6 +18,9 @@ $ docsify serve docs
 
 Serving /Users/bi/Desktop/t-docsify/docs now.
 Listening at http://localhost:49635
+
+# enable executeScript
+
 ```
 
 ## Result
